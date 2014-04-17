@@ -1,4 +1,4 @@
-# Laravel 4 custom validation rule for Phone numbers
+## Laravel 4 custom validation rule for Phone numbers
 
 ### Example
 
